@@ -1,0 +1,9 @@
+.DS_Store
+node_modules/
+.opencode/node_modules/
+MENTOR_STATE.md
+MENTOR_STATE_*.md
+MENTORIA.md
+__pycache__/
+*.pyc
+graphify-out/
