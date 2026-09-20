@@ -19,6 +19,12 @@ enforcement a hooked plugin gets for free, in exchange for running anywhere.
 exists to build capability in a beginner and to fight atrophy/complacency in an
 advanced practitioner who's stopped producing from a blank page.
 
+**Level 6, Delegate.** For a topic you have already mastered, training it teaches
+nothing, so the mentor just does it (and runs it) and hands back an organized report
+with mermaid diagrams, shown right in the conversation. It is earned per (sub)topic
+through a stricter gate, or requested for a task, and it is re-checked by the drift
+sweep so mastery that fades drops back to level 5.
+
 **Fast, baby steps toward one clear big goal.** No disconnected drills. The mentor
 co-designs a real project with the learner, lays out the whole staircase of steps up
 front, and every session ends in something that actually runs.
